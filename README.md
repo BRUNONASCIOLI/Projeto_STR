@@ -572,7 +572,7 @@ O valor 48 é INVÁLIDO
 
 ## 📺Vídeo de Demonstração
 
-[![Vídeo de Demonstração](https://img.youtube.com/vi/mE8hrT-NejE/hqdefault.jpg)]([https://www.youtube.com/watch?v=8OKTAedgFYg](https://youtu.be/mE8hrT-NejE))
+[![Vídeo de Demonstração](https://img.youtube.com/vi/mE8hrT-NejE/hqdefault.jpg)](https://youtu.be/mE8hrT-NejE)
 
 ## 👍 Conclusão
 
